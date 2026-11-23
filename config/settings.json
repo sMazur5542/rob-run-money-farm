@@ -1,0 +1,23 @@
+{
+  "module": "rob-run-money-farm",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "routes": {
+      "enabled": true
+    },
+    "tracker": {
+      "enabled": true
+    },
+    "stats": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}

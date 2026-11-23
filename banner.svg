@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="640" viewBox="0 0 1680 640" fill="none" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="1680" height="640" rx="20" fill="#0d1117"/>
+<rect x="1" y="1" width="1678" height="638" rx="19" fill="none" stroke="#21262d"/>
+<g fill="#161b22"><circle cx="120" cy="100" r="2"/><circle cx="1560" cy="540" r="2"/><circle cx="1500" cy="120" r="2"/><circle cx="160" cy="520" r="2"/></g>
+<g><rect x="150" y="220" width="280" height="200" rx="12" fill="#161b22" stroke="#30363d"/>
+<circle cx="175" cy="245" r="5" fill="#ff5f57"/><circle cx="195" cy="245" r="5" fill="#febc2e"/><circle cx="215" cy="245" r="5" fill="#28c840"/>
+<text x="235" y="250" fill="#8b949e" font-size="13" font-weight="600">zsh — rob-money</text>
+<line x1="150" y1="268" x2="430" y2="268" stroke="#30363d"/>
+<text x="175" y="300" font-family="Menlo, Consolas, monospace" font-size="15" fill="#3fb950">$</text>
+<text x="193" y="300" font-family="Menlo, Consolas, monospace" font-size="15" fill="#e6edf3">rob-money</text>
+<text x="175" y="330" font-family="Menlo, Consolas, monospace" font-size="14" fill="#8b949e">watching target…</text>
+<text x="175" y="360" font-family="Menlo, Consolas, monospace" font-size="14" fill="#8b949e">event detected</text>
+<text x="175" y="390" font-family="Menlo, Consolas, monospace" font-size="14" fill="#58a6ff">→ handled ✓</text></g>
+<g><rect x="1250" y="220" width="280" height="200" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="1390" y="250" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600">WORKER POOL</text>
+<line x1="1250" y1="268" x2="1530" y2="268" stroke="#30363d"/>
+<rect x="1285" y="290" width="80" height="34" rx="8" fill="#238636" opacity="0.25"/><text x="1325" y="312" text-anchor="middle" fill="#3fb950" font-size="14" font-weight="700" font-family="Menlo, Consolas, monospace">S1</text>
+<rect x="1350" y="290" width="80" height="34" rx="8" fill="#1f6feb" opacity="0.18"/><text x="1390" y="312" text-anchor="middle" fill="#58a6ff" font-size="14" font-weight="700" font-family="Menlo, Consolas, monospace">S2</text>
+<rect x="1415" y="290" width="80" height="34" rx="8" fill="#30363d" opacity="0.6"/><text x="1455" y="312" text-anchor="middle" fill="#8b949e" font-size="14" font-weight="700" font-family="Menlo, Consolas, monospace">S3</text>
+<text x="1285" y="360" fill="#e6edf3" font-size="13">active:</text><text x="1340" y="360" fill="#3fb950" font-size="13" font-weight="700">S1</text>
+<text x="1285" y="385" fill="#8b949e" font-size="13">checkpoint saved</text>
+<g stroke="#3fb950" stroke-width="2.5" fill="none" opacity="0.9"><path d="M 1338 415 A 44 44 0 1 1 1442 415"/><path d="M 1338 415 l -8 -10 M 1338 415 l 12 -4"/></g></g>
+<g stroke="#30363d" stroke-width="1.5" stroke-dasharray="3 6" opacity="0.8"><line x1="430" y1="320" x2="600" y2="320"/><line x1="1080" y1="320" x2="1250" y2="320"/></g>
+<g><rect x="806" y="150" width="68" height="68" rx="16" fill="#21262d" stroke="#30363d"/><path d="M 828 172 l -10 12 l 10 12" stroke="#e6edf3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M 852 172 l 10 12 l -10 12" stroke="#e6edf3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M 840 186 l 5 8 l -5 8 l -5 -8 z" fill="#f0883e"/></g>
+<text x="840" y="292" text-anchor="middle" fill="#e6edf3" font-size="64" font-weight="800" letter-spacing="-1">Rob Run Money Farm</text>
+<text x="840" y="344" text-anchor="middle" fill="#8b949e" font-size="26" font-weight="500">Best money routes in Looty Bay — cash without the grind.</text>
+<rect x="706" y="390" width="112" height="40" rx="20" fill="#2ea043" opacity="0.22"/>
+<circle cx="726" cy="410" r="5" fill="#3fb950"/>
+<text x="744" y="416" fill="#3fb950" font-size="17" font-weight="600">Rob Run</text>
+<rect x="838" y="390" width="94" height="40" rx="20" fill="#1f6feb" opacity="0.18"/>
+<circle cx="858" cy="410" r="5" fill="#58a6ff"/>
+<text x="876" y="416" fill="#58a6ff" font-size="17" font-weight="600">Money</text>
+<rect x="952" y="390" width="103" height="40" rx="20" fill="#30363d" opacity="0.55"/>
+<circle cx="972" cy="410" r="5" fill="#c9d1d9"/>
+<text x="990" y="416" fill="#c9d1d9" font-size="17" font-weight="600">Routes</text>
+<text x="840" y="486" text-anchor="middle" fill="#484f58" font-size="15" font-weight="600" letter-spacing="3">PREBUILT · PORTABLE · WINDOWS 10/11 X64</text>
+</svg>
