@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: rob-run-money-farm, rob-run, money, routes, heist, cash, earnings, gaming-tools, planner, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+rob-run money routes heist cash earnings gaming-tools planner rob-run-cash-routes looty-money-helper rob-run-money-farm windows portable prebuilt x64 free download
+related: rob-run, money, routes, heist, cash, earnings, gaming-tools, planner
