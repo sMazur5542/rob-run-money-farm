@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="rob-run-money-farm" width="840" />
-
 # Rob Run Money Farm — ROB RUN Money Farm — Heist Route Planner and Earnings Tracker (Portable x64 Build, JSON Configuration)
 
 <p><strong>Rob Run Money Farm — ROB RUN Money Farm — Heist Route Planner and Earnings Tracker (Portable x64 Build, JSON Configuration): Best money routes in Looty Bay — cash without the grind. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
